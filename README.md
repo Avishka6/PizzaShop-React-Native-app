@@ -44,22 +44,21 @@ You've successfully run and modified your React Native App. :partying_face:
 
 
 
-
-![Screenshot_2025-12-28-17-00-16-615_com myfirstproject](https://github.com/user-attachments/assets/5b21f6ca-e197-4d00-8555-405d7538a74b)
-![Screenshot_2025-12-28-16-59-38-393_com myfirstproject](https://github.com/user-attachments/assets/ae4cb1af-a5ea-49bc-b2ea-5e35cd44a5f8)
-![Screenshot_2025-12-28-16-59-05-569_com myfirstproject](https://github.com/user-attachments/assets/8c8d9c31-0800-4cdf-9d97-09091a774b79)
-![Screenshot_2025-12-28-16-58-49-920_com myfirstproject](https://github.com/user-attachments/assets/9bde9435-0ace-45d8-b6a4-72aaf85453c6)
-![Screenshot_2025-12-28-16-58-20-360_com myfirstproject](https://github.com/user-attachments/assets/bdc1017c-c4a0-4e8c-b5d9-d93d2146df31)
-![Screenshot_2025-12-28-16-58-08-774_com myfirstproject](https://github.com/user-attachments/assets/db30099e-9a16-4283-9706-3fd0a27349ec)
-![Screenshot_2025-12-28-16-53-07-489_com myfirstproject](https://github.com/user-attachments/assets/268afcdf-84df-4306-8b21-ce9f2e7e5f17)
-![Screenshot_2025-12-28-17-01-32-559_com myfirstproject](https://github.com/user-attachments/assets/1d6b2e15-56a4-4216-a175-357a89e961eb)
-![Screenshot_2025-12-28-17-01-26-662_com myfirstproject](https://github.com/user-attachments/assets/84f75ec0-428a-4ac3-b3c6-f55798778362)
-![Screenshot_2025-12-28-17-01-21-575_com myfirstproject](https://github.com/user-attachments/assets/ab2bbf29-ad75-4f01-814e-e8ad3906d3db)
-![Screenshot_2025-12-28-17-01-14-945_com myfirstproject](https://github.com/user-attachments/assets/b85dbf34-6aaf-408e-8940-2c57942efc54)
-![Screenshot_2025-12-28-17-01-08-710_com myfirstproject](https://github.com/user-attachments/assets/e7a3ec5a-faa6-47c2-a814-29f168353d36)
-![Screenshot_2025-12-28-17-00-53-392_com myfirstproject](https://github.com/user-attachments/assets/4817eee6-1a5e-4437-b4a9-31192fb04059)
-![Screenshot_2025-12-28-17-00-33-868_com myfirstproject](https://github.com/user-attachments/assets/a82e8917-33fa-4d90-9cc9-fc661aa8ca7f)
-![Screenshot_2025-12-28-17-00-20-441_com myfirstproject](https://github.com/user-attachments/assets/0ca3c895-1737-47de-aebb-371e8e53b961)
+![Image](https://github.com/user-attachments/assets/3b16d194-aada-42ff-8e4a-beae81d2ff5a)
+![Image](https://github.com/user-attachments/assets/e7758d20-d806-40d3-91f7-bb2ae40c09b6)
+![Image](https://github.com/user-attachments/assets/b84260ae-9c00-4e7e-a76a-e7c1d65c999c)
+![Image](https://github.com/user-attachments/assets/2c310fca-ceb3-44f6-b15b-576bdb237d11)
+![Image](https://github.com/user-attachments/assets/570f0557-caca-40f4-bcca-e5310890c619)
+![Image](https://github.com/user-attachments/assets/706c6aac-3bb7-45ae-9166-643a30c4e101)
+![Image](https://github.com/user-attachments/assets/2b7b95f5-07d0-492f-aa59-d228a9c2dd77)
+![Image](https://github.com/user-attachments/assets/5c703743-7445-4ace-afcc-f3bdf369ecc1)
+![Image](https://github.com/user-attachments/assets/558bd630-2ef1-431e-a2fb-f8764d20e8cc)
+![Image](https://github.com/user-attachments/assets/dbe2bc23-3e4c-45df-9744-140ef0d28405)
+![Image](https://github.com/user-attachments/assets/9f47c6ae-0d43-4263-9511-3a80a1f73fbd)
+![Image](https://github.com/user-attachments/assets/39ed3314-281c-4ec1-ae7f-92788750bb57)
+![Image](https://github.com/user-attachments/assets/68e56bf6-c512-4ee3-8cbb-305fafbe6f4e)
+![Image](https://github.com/user-attachments/assets/e0eb9188-fafd-4004-944c-4881f4a24b5a)
+![Image](https://github.com/user-attachments/assets/f6d1d785-bff7-4d0d-a3b6-69231a903987)
 
 
 
