@@ -52,7 +52,13 @@ You've successfully run and modified your React Native App. :partying_face:
 ![Image](https://github.com/user-attachments/assets/6b7aa462-2430-490e-815a-82bd9f6811c5)
 ![Image](https://github.com/user-attachments/assets/a5835264-9928-4ffe-b34a-a4a37b7b8608)
 ![Image](https://github.com/user-attachments/assets/8feb3457-d553-4d65-8438-ab9e61987191)
-
+![Image](https://github.com/user-attachments/assets/4a79c83e-2af3-4e9f-b95e-cd235a71de87)
+![Image](https://github.com/user-attachments/assets/7df1fe22-2ce8-47ef-98e4-9d2e2707ed98)
+![Image](https://github.com/user-attachments/assets/8a8db4d4-bbb3-4149-a16c-12c6ebb75be0)
+![Image](https://github.com/user-attachments/assets/e8a05d07-3646-47e9-b795-ad1b4a5f164a)
+![Image](https://github.com/user-attachments/assets/b5ba74ea-e3b6-4959-9789-1d378333193d)
+![Image](https://github.com/user-attachments/assets/2435247b-e42c-4d99-9c82-eda5a89663cb)
+![Image](https://github.com/user-attachments/assets/1e87b6c5-0286-4c9d-a65c-c3f24352c893)
 
 
 
